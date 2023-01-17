@@ -9,9 +9,8 @@ summary: "The Active IQ Unified Manager REST API is accessible by using any web 
 :imagesdir: ../media/
 
 [.lead]
-Active IQ Unified Manager REST API is accessible by using any REST client or programming platform that can issue HTTP requests with a basic HTTP authentication mechanism.
+The Active IQ Unified Manager REST API is accessible by using any REST client or programming platform that can issue HTTP requests with a basic HTTP authentication mechanism.
 
-== REST access
 
 A sample request and response:
 
