@@ -29,7 +29,7 @@ entries:
       - title: Removing a protection relationship from the Volume health details
           page
         url: "/data-protection/task_remove_protection_relationship_voldtls.html"
-      - title: Resynchronizing protection relationships from the Volume Health details
+      - title: Resynchronizing protection relationships from the Volume health details
           page
         url: "/data-protection/task_resynchronize_protection_relationships_voldtls.html"
     - title: Resolving a protection job failure
