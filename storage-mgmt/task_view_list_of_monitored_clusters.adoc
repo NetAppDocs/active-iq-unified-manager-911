@@ -18,4 +18,5 @@ You must have the Operator, Application Administrator, or Storage Administrator 
 .Step
 
 1.	In the left navigation pane, click *Storage Management* > *Cluster Setup*.
++
 All the clusters in your storage environment managed by Unified Manager are displayed. The list of clusters is sorted by the collection state severity level column. You can click a column header to sort the clusters by different columns.
