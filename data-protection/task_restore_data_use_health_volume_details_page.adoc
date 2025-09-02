@@ -1,7 +1,7 @@
 ---
 permalink: data-protection/task_restore_data_use_health_volume_details_page.html
 sidebar: sidebar
-keywords: restore, data, volume, health details page, netapp console.
+keywords: restore, data, volume, health details page, netapp console
 summary: "You can restore overwritten or deleted files, directories, or an entire volume from a Snapshot copy by using the restore feature on the Volume / Health details page."
 ---
 = Restoring data using the Volume / Health details page
